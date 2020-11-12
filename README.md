@@ -1,4 +1,4 @@
-Pre-work - Rails blog for Uudemy
+Pre-work - Rails blog for Udemy
 
 Rails blog for Udemy is a Ruby on Rails blog application
 
