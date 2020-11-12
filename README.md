@@ -7,7 +7,8 @@ Submitted by: Nguyen Nhat Khoa
 Time spent: 2 days
 
 
-URL:
+URL:https://ikiteitandayona.herokuapp.com
+
 
 Video Walkthrough
 
